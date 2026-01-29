@@ -1,0 +1,3 @@
+[INFO ] 2026-01-29 10:33:01.772 [main] log4j_api - This is information message
+[DEBUG] 2026-01-29 10:33:01.773 [main] log4j_api - This is debug message
+[FATAL] 2026-01-29 10:33:01.774 [main] log4j_api - This will  run 
